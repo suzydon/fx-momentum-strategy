@@ -29,9 +29,11 @@ bashpip install yfinance pandas numpy matplotlib
 python fx_momentum_strategy.py
 The script prints the performance tables and saves an equity-curve chart to
 fx_momentum_results.png.
+
 Results
 Run the script and paste the output tables here, alongside
 fx_momentum_results.png.
+
 Limitations and extensions
 
 Uses daily close prices; intraday execution and slippage are not modelled.
